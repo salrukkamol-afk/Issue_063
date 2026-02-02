@@ -18,7 +18,7 @@
 					อาทิ WIFI อินเทอร์เน็ตความเร็วสูงทุกห้อง มีพัดลม และเครื่องปรับอากาศให้เลือก มีทีวี
 					คอมพิวเตอร์ให้เช่า
 				<p>
-					เชิญชมห้องตัวอย่าง ได้ทุกวัน <a href=amit.php>ติดต่อสอบถามมมมมมมมมมมมมมad;akdpakdpoajdfap[jfaio[jfo[ip</a>	
+					เชิญชมห้องตัวอย่าง ได้ทุกวัน <a href=amit.php>ติดต่อสอบถามมมมมมมมมมมมมมGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG</a>	
 			</td>
 			<td width="190" bgcolor="#FFFF66"><ul>
 				<li><a href="home.php">หน้าแรก</li>
@@ -31,5 +31,6 @@
 		</tr>
 	</table>
 <body>
+
 
 
